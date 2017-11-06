@@ -1,0 +1,76 @@
+"a" = (/turf/unsimulated/wall,/area/winterstorm)
+"b" = (/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+"c" = (/obj/effect/landmark/map_data{height = 3},/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+"d" = (/obj/structure/stairs/east,/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+"e" = (/obj/structure/ladder/up,/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+"f" = (/obj/item/device/flashlight/lamp,/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+"g" = (/turf/open/genturf,/area/winterstorm)
+"h" = (/turf/unsimulated/wall/ice,/area/winterstorm)
+"i" = (/turf/simulated/open,/area/winterstorm)
+"j" = (/turf/simulated/floor/plating/snow,/area/winterstorm)
+"k" = (/obj/effect/landmark/map_data{height = 3},/turf/simulated/floor/shuttle/white,/area/winterstorm)
+"l" = (/turf/simulated/floor/shuttle/white,/area/winterstorm)
+"m" = (/turf/simulated/floor/wood,/area/winterstorm)
+"n" = (/obj/structure/ladder/updown,/turf/simulated/floor/shuttle/white,/area/winterstorm)
+"o" = (/obj/item/device/flashlight/lamp,/turf/simulated/floor/shuttle/white,/area/winterstorm)
+"p" = (/obj/structure/ladder/up,/turf/simulated/floor/wood,/area/winterstorm)
+"q" = (/turf/simulated/floor/ice,/area/winterstorm)
+"r" = (/obj/effect/landmark/terrain_generator,/turf/simulated/floor/shuttle/white,/area/winterstorm)
+"s" = (/obj/structure/stairs/west,/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+"t" = (/obj/effect/landmark/terrain_generator,/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+"u" = (/mob/living/carbon/human,/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+"v" = (/obj/structure/ladder,/turf/unsimulated/floor/shuttle_ceiling,/area/winterstorm)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abcbbbbdbbbbbba
+abbbbbbbbbbbbba
+abbbefbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+aaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaa
+agggbbbbbbbbbba
+agggbbbbbbbbbba
+agggbbbbbbbbbba
+agggbbbbbbbbbba
+agggbbbbbbbbbba
+aghgbbiiibbbbba
+aghgbbiibbbbbba
+ajjjkllmmbbbbba
+ajjjnolmpbbbbba
+aqqqllrmmbbbbba
+aqqqbbbbbbbbbba
+agggbbbbbbbbbba
+agggbsbbbbbbbba
+aaaaaaaaaaaaaaa
+"}
+
+(1,1,3) = {"
+aaaaaaaaaaaaaaa
+aggggggbbbbbbba
+aggggggbbbbbbba
+aggggggbbbbbbba
+aggggggbbbbtbba
+abbbbbbubbbbbba
+aiibbiibiibbbba
+aiicbiibiibbbba
+aiibfiibiibbbba
+aiibviibvbbbbba
+aiibbiibiibbbba
+aiibbiibiibbbba
+aiibbiibiibbbba
+aiibbiibiibbbba
+aaaaaaaaaaaaaaa
+"}

@@ -1,9 +1,10 @@
 #if !defined(using_map_DATUM)
 
-	#include "winterstorm1.dmm"
-	#include "winterstorm3.dmm"
-	#include "winterstorm4.dmm"
-	#include "winterstorm5.dmm"
+//	#include "winterstorm1.dmm"
+//	#include "winterstorm3.dmm"
+//	#include "winterstorm4.dmm"
+//	#include "winterstorm5.dmm"
+	#include "testman.dmm"
 
 	#define using_map_DATUM /datum/map/
 
