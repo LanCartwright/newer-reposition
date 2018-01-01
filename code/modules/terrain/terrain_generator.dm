@@ -91,7 +91,7 @@
 	icon = 'icons/turf/winterstorm.dmi'
 	icon_state = "dirt"
 
-/turf/simulated/floor/plating/snow
+/turf/simulated/floor/snow
 	name = "snow"
 	desc = "Looks cold."
 	icon = 'icons/turf/snow.dmi'

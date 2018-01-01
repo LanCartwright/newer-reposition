@@ -7,7 +7,7 @@
 "g" = (/turf/open/genturf,/area/winterstorm)
 "h" = (/turf/unsimulated/wall/ice,/area/winterstorm)
 "i" = (/turf/simulated/open,/area/winterstorm)
-"j" = (/turf/simulated/floor/plating/snow,/area/winterstorm)
+"j" = (/turf/simulated/floor/snow,/area/winterstorm)
 "k" = (/obj/effect/landmark/map_data{height = 3},/turf/simulated/floor/shuttle/white,/area/winterstorm)
 "l" = (/turf/simulated/floor/shuttle/white,/area/winterstorm)
 "m" = (/turf/simulated/floor/wood,/area/winterstorm)

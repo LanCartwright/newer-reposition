@@ -30,7 +30,7 @@
 	max_weight = 10
 
 /datum/biome/snowy_forest_dense
-	turf_type = /turf/simulated/floor/plating/snow
+	turf_type = /turf/simulated/floor/snow
 	min_weight = 50
 	max_weight = 75
 	flora_density = 60
@@ -39,21 +39,21 @@
 	flora_types = list(/obj/structure/flora/tree/pine = 20 ,/obj/structure/flora/tree/dead = 3, /obj/structure/flora/grass = 2, /obj/structure/flora/grass/brown = 2, /obj/structure/flora/grass/green = 2, /obj/structure/flora/grass/both = 2, /obj/structure/flora/bush = 2)
 
 /datum/biome/snowy_forest
-	turf_type = /turf/simulated/floor/plating/snow
+	turf_type = /turf/simulated/floor/snow
 	min_weight = 50
 	max_weight = 75
 	flora_density = 40
 	flora_types = list(/obj/structure/flora/tree/pine = 20 ,/obj/structure/flora/tree/dead = 3, /obj/structure/flora/grass = 2, /obj/structure/flora/grass/brown = 2, /obj/structure/flora/grass/green = 2, /obj/structure/flora/grass/both = 2, /obj/structure/flora/bush = 2)
 
 /datum/biome/snowy_plains
-	turf_type = /turf/simulated/floor/plating/snow
+	turf_type = /turf/simulated/floor/snow
 	min_weight = 50
 	max_weight = 75
 	flora_density = 5
 	flora_types = list(/obj/structure/flora/grass = 2, /obj/structure/flora/grass/brown = 2, /obj/structure/flora/grass/green = 2, /obj/structure/flora/grass/both = 2)
 
 /datum/biome/snowy_plains_dense
-	turf_type = /turf/simulated/floor/plating/snow
+	turf_type = /turf/simulated/floor/snow
 	min_weight = 50
 	max_weight = 75
 	flora_density = 50
