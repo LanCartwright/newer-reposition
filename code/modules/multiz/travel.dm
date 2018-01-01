@@ -13,7 +13,9 @@
 /obj/travellocation/Destroy()
 	travel_point_list -= src
 
-/obj/travellocation/Crossed(mob/M)
+/obj/travellocation/Crossed(mob/living/carbon/M as mob)
+	if(!istype(src))
+		return
 	var/obj/travellocation/target
 	for(var/i in travel_point_list)
 		var/obj/travellocation/T = i
