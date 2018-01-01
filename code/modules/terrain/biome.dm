@@ -34,8 +34,6 @@
 	min_weight = 50
 	max_weight = 75
 	flora_density = 60
-	fauna_density = 5
-	fauna_types = list()
 	flora_types = list(/obj/structure/flora/tree/pine = 20 ,/obj/structure/flora/tree/dead = 3, /obj/structure/flora/grass = 2, /obj/structure/flora/grass/brown = 2, /obj/structure/flora/grass/green = 2, /obj/structure/flora/grass/both = 2, /obj/structure/flora/bush = 2)
 
 /datum/biome/snowy_forest
